@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcd:home|Door43 (mcd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcd|d43-mcd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcd/archive/master.zip|d43-mcd.zip]]
+
+**Recent Changes**
+{{changes>ns = mcd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcd|Ethnologue data]]
+
